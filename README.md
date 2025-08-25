@@ -1,4 +1,4 @@
-
+![image alt](https://github.com/Sreeramvv/SQL_Spotify_analysis/blob/main/spotify%202.jpg?raw=true)
 
 
 
