@@ -105,7 +105,6 @@ select * from top3 where ranks<=3;
 #write a query to find tracks where the Liveness is greater the avg
 select Track,Liveness from proj2.spotify where ( select avg(Liveness) from proj2.spotify);
 
-#calculate cumulative sum if of the lines for the traxks ordered by the number of views, using window function
 
 #using with clause to calculate the difference between the highest and lowest energy values for tracks in each album
 with ss as
