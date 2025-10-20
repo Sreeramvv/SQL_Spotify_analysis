@@ -22,6 +22,7 @@ The goal is to practice SQL queries for data extraction, cleaning, transformatio
 10. Find the top 3 most viewed tracks for each artist using the window function
 11. Write a query to find tracks where the Liveness is greater than the average
 12. Using with clause to calculate the difference between the highest and lowest energy values for tracks in each album
+13. Create an Interactive Dashboard for generating insights
 
 ### Data Exploration
 Before diving into SQL, it’s important to understand the dataset thoroughly. The dataset contains attributes such as:
@@ -42,3 +43,7 @@ More complex queries involving grouping, aggregation functions, and joins.
 
 ### Advanced Queries
 Nested subqueries, window functions, CTEs, and performance optimization.
+
+### Dashboard
+![image alt]()
+
