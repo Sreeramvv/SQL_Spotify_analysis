@@ -45,5 +45,5 @@ More complex queries involving grouping, aggregation functions, and joins.
 Nested subqueries, window functions, CTEs, and performance optimization.
 
 ### Dashboard
-![image alt](https://github.com/Sreeramvv/SQL_Spotify_analysis/blob/main/Spotify_pic.png?raw=true)
+![image alt](https://github.com/Sreeramvv/SQL_Spotify_analysis/blob/main/Spotify_dashboard_pic.png?raw=true)
 
